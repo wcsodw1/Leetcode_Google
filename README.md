@@ -25,16 +25,16 @@
   - BFS :
     - Done :
     - Next : <br/>
-      Leetcode 102 Binary Tree Level Order Traversal <br/>
-      Leetcode 103 Binary Tree Zigzag Level Order Traversal <br/>
-      Leetcode 314 Binary Tree Vertical Order Traversal <br/>
-  <hr/>
+    Leetcode 102 Binary Tree Level Order Traversal <br/>
+    Leetcode 103 Binary Tree Zigzag Level Order Traversal <br/>
+    Leetcode 314 Binary Tree Vertical Order Traversal <br/>
+    <hr/>
 - 5.Hash Table(Hash map | set) 雜湊表
   - Done : [Q1 Two Sum](HashMap/Q1_TwoSum.py) <br/>
   - Next : <br/>
-    Leetcode 146. LRU Cache (Python 中可以使用 OrderedDict 来代替) | <br/>
-    Leetcode 128. Longest Consecutive Sequence | <br/>
-    Leetcode 73. Set Matrix Zeroes | <br/>
+  Leetcode 146. LRU Cache (Python 中可以使用 OrderedDict 来代替) | <br/>
+  Leetcode 128. Longest Consecutive Sequence | <br/>
+  Leetcode 73. Set Matrix Zeroes | <br/>
   <hr/>
 - 6.Bit Manipulation 位元運算
   - Done :
@@ -58,3 +58,5 @@
     Leetcode 148. Sort List <br/>
     Leetcode 56. Merge Intervals <br/>
     Leetcode 27. Remove elements
+
+## [Reference]("https://zhuanlan.zhihu.com/p/349940945")
