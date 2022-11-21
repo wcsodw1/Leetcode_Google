@@ -3,7 +3,7 @@
 ## Simple Classfied(簡易分類)
 
 - 1.Arrays 陣列
-  - Done : Leetcode 697. Array
+  - Done : Leetcode 697. Array [697](Array/Q697_Array.py) <hr/>
   - Next :
 - 2.Linked Lists 鏈結串列
   - Done :
