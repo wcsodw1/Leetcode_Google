@@ -3,7 +3,7 @@
 ## Simple Classfied(簡易分類)
 
 - 1.Arrays 陣列
-  - Done : Leetcode 697. Array [697](Array/Q697_Array.py) <hr/>
+  - Done : [Q697 Array](Array/Q697_Array.py) <hr/>
   - Next :
 - 2.Linked Lists 鏈結串列
   - Done :
@@ -15,7 +15,7 @@
   - Done :
   - Next :
 - 5.Hash Table 雜湊表
-  - Done : Leetcode 1. Hash Map
+  - Done : [Q1 Two Sum](HashMap/Q1_TwoSum.py) <hr/>
   - Next : Leetcode 146. LRU Cache (Python 中可以使用 OrderedDict 来代替) | Leetcode 128. Longest Consecutive Sequence | Leetcode 73. Set Matrix Zeroes | Leetcode 380. Insert Delete GetRandom O(1) | Leetcode 49. Group Anagrams | Leetcode 350. Intersection of Two Arrays II | Leetcode 299. Bulls and Cows | Leetcode 348 Design Tic-Tac-Toe
 - 6.Bit Manipulation 位元運算
   - Done :
