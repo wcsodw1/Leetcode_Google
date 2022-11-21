@@ -3,20 +3,32 @@
 ## Simple Classfied(簡易分類)
 
 - 1.Arrays 陣列
-  - Done : [Q697 Array](Array/Q697_Array.py) <hr/>
+  - Done : [Q697 Array](Array/Q697_Array.py) <br/>
   - Next :
+    <hr/>
 - 2.Linked Lists 鏈結串列
   - Done :
   - Next : Leetcode 206. Reverse Linked List | Leetcode 876. Middle of the Linked List
+    <hr/>
 - 3.Stack and Queues 堆疊與佇列
   - Done :
   - Next :
+    <hr/>
 - 4.Trees and Graph 樹與圖
   - Done :
   - Next :
+    <hr/>
 - 5.Hash Table 雜湊表
-  - Done : [Q1 Two Sum](HashMap/Q1_TwoSum.py) <hr/>
-  - Next : Leetcode 146. LRU Cache (Python 中可以使用 OrderedDict 来代替) | Leetcode 128. Longest Consecutive Sequence | Leetcode 73. Set Matrix Zeroes | Leetcode 380. Insert Delete GetRandom O(1) | Leetcode 49. Group Anagrams | Leetcode 350. Intersection of Two Arrays II | Leetcode 299. Bulls and Cows | Leetcode 348 Design Tic-Tac-Toe
+  - Done : [Q1 Two Sum](HashMap/Q1_TwoSum.py) <br/>
+  - Next :
+  Leetcode 146. LRU Cache (Python 中可以使用 OrderedDict 来代替) |
+  Leetcode 128. Longest Consecutive Sequence |
+  Leetcode 73. Set Matrix Zeroes |
+  Leetcode 380. Insert Delete GetRandom O(1) |
+  Leetcode 49. Group Anagrams | Leetcode 350. Intersection of Two Arrays II |
+  Leetcode 299. Bulls and Cows |
+  Leetcode 348 Design Tic-Tac-Toe
+  <hr/>
 - 6.Bit Manipulation 位元運算
   - Done :
   - Next :
