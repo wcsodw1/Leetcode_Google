@@ -3,7 +3,9 @@
 ## Simple Classfied(簡易分類)
 
 - 1.Arrays 陣列
-  - Done : [Q697 Array](Array/Q697_Array.py) <br/>
+  - Done : 
+  [Q697 Array](Array/Q697_Array.py) <br/>
+  [Q2276 Largest 3-Same-Digit Number in String](Array/Q2264_Largest3-SameDigitNumberinString.py) <br/>
   - Next : <br/>
   Leetcode 561. Array Partition <br/>
   Leetcode 905. Sort Array By Parity <br/>
