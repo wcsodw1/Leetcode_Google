@@ -5,7 +5,7 @@
 - 1.Arrays 陣列
   - Done : <br/>
   [Q697 Array]("1_Array/Q697_Array.py") <br/>
-  [Q2276 Largest 3-Same-Digit Number in String]("1_Array/Q2264_Largest3_SameDigitNumberinString.py") <br/>
+  [Q2276 Largest 3-Same-Digit Number in String](1_Arrays/Q2264_Largest3_SameDigitNumberinString.py) <br/>
   - Next : <br/>
   Leetcode 561. Array Partition <br/>
   Leetcode 905. Sort Array By Parity <br/>
