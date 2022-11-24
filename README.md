@@ -5,7 +5,7 @@
 - 1.Arrays 陣列
   - Done : <br/>
   [Q697 Array]("1_Array/Q697_Array.py") <br/>
-  [Q1742_Q1742_MaximumNumberofBallsinaBox](1_Arrays/Q1742_MaximumNumberofBallsinaBox.py)
+  [Q1742_Q1742_MaximumNumberofBallsinaBox](1_Arrays/Q1742_MaximumNumberofBallsinaBox.py) <br/>
   [Q2276 Largest 3-Same-Digit Number in String](1_Arrays/Q2264_Largest3_SameDigitNumberinString.py) <br/>
   - Next : <br/>
   Leetcode 561. Array Partition <br/>
@@ -18,7 +18,8 @@
   Leetcode 876. Middle of the Linked List | <br/>
   <hr/>
 - 3.Stack and Queues 堆疊與佇列
-  - Done :
+  - Done : <br />
+  [Q781 RabbitInForest](3_Stack_and_Queues/Q781_RabbitInForest.py)
   - Next : <br/>
   Leetcode 225. Implement Stack using Queues <br/>
   Leetcode 281. Zigzag Iterator <br/>
