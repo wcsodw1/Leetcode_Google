@@ -49,7 +49,7 @@
   - Next :
   <hr/>
 - 8.Recursion And Dynamic Programming 遞迴與動態規劃
-  - Done :
+  - Done : [Q121 Buy_and_Sell_Stock](8_Recursion_and_DynamicProgramming/SlidingWindow/Q121_Buy_and_Sell_Stock.py)
   - Next : <br/>
   Leetcode 62 Unique Paths II <br/>
   Leetcode 70 Climbing Stairs <br/>
