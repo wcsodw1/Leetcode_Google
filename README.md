@@ -63,4 +63,7 @@
     Leetcode 56. Merge Intervals <br/>
     Leetcode 27. Remove elements
 
+- 010.SQL 
+  - [010](_10_SQL/Q178_Rank_Score.sql)
+
 ## [Reference](https://zhuanlan.zhihu.com/p/349940945)
